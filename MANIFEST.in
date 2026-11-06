@@ -1,0 +1,3 @@
+include README.md README_zh-CN.md THIRD_PARTY_NOTICES.md
+recursive-include licenses *
+recursive-include tests *.py
